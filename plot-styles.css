@@ -1,0 +1,17 @@
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #ffcdd2;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+#results svg text {
+  stroke: #ffcdd2;
+  fill: #ffcdd2;
+}
